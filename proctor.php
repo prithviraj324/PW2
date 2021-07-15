@@ -116,7 +116,7 @@ if (!isset($_SESSION['user_id'])){
                                 }
                             }
                         }
-                    }
+                    }//comm1
                 ?>
                     </table><br>
                     <div style="text-align:center">
