@@ -48,7 +48,7 @@ if(isset($_POST['login']))
   <div class="bg">
       <div class="loginbox">
       <img src="avatar.jpeg" class="avatar">
-        <h1 id="tt">PROFESSOR LOGIN</h1>
+        <h1 id="tt">HOD LOGIN</h1>
           <form name="form1" action="" method="POST">
             <p>E-mail ID</p>
             <input id="email" name="email" type="text" placeholder="Enter E-mail ID" required>

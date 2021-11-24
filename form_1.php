@@ -1,7 +1,6 @@
 <?php
 include "db.php";
 
-<?php
 include "db.php";
 
 if(!isset($_SESSION)) 

@@ -48,7 +48,7 @@ if (isset($_POST['email']) && isset($_POST['password'])
 		}
 	}
 	
-}else{
+else{
 	header("Location: signup.php");
 	exit();
 }
